@@ -1,7 +1,7 @@
-NLP Spam Detection
+# NLP Spam Detection
 
 
-Overview:
+# Overview:
 
 
 This project focuses on detecting spam messages using Natural Language Processing (NLP) techniques. It employs machine learning models to classify messages as either "spam" or "ham" (not spam). The implementation is carried out in a Jupyter Notebook using Python and various NLP libraries.
